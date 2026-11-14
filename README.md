@@ -13,8 +13,8 @@ The cards describe potential application areas. Satellite processing, UAV proces
 ## Run locally
 
 ```bash
-git clone https://github.com/Gcina22/Gcinapy2.git
-cd Gcinapy2
+git clone https://github.com/Gcina22/smart-farming-interface-prototype.git
+cd smart-farming-interface-prototype
 python -m venv .venv
 ```
 
