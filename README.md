@@ -1,6 +1,6 @@
-# Smart Farming Interface Prototype
+# Invasive Species Detection
 
-A personal **Streamlit interface prototype** by Gcina Mdizwa, exploring how satellite, UAV and agricultural analysis themes could be presented through a web application.
+A personal **Streamlit interface prototype** by Gcina Mdizwa, being refocused on invasive-species monitoring, starting with seasonal water-hyacinth mapping. The repository name describes the intended direction; an automated detection workflow is not implemented.
 
 ## Current implementation
 
@@ -13,8 +13,8 @@ The cards describe potential application areas. Satellite processing, UAV proces
 ## Run locally
 
 ```bash
-git clone https://github.com/Gcina22/smart-farming-interface-prototype.git
-cd smart-farming-interface-prototype
+git clone https://github.com/GcinaMdizwa/invasive-species-detection.git
+cd invasive-species-detection
 python -m venv .venv
 ```
 
@@ -35,7 +35,7 @@ The repository contains `Summer_2025_Hyacinth_Map.tif`, `Winter_2025_Hyacinth_Ma
 
 - The background photograph is loaded from an external Unsplash URL and requires internet access.
 - This prototype does not connect to satellite services, field sensors or live farm data.
-- No crop-health, irrigation or yield model is currently provided.
+- No invasive-species detection, classification or change-analysis model is currently provided.
 - Desktop and mobile accessibility/usability have not yet been formally evaluated.
 
 ## Next improvements
